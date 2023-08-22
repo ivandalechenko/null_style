@@ -1,6 +1,6 @@
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section{
-    display: block
+    display: block;
 }
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -15,29 +15,28 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video, button{
-  
-    margin: 0
-    padding: 0
-    border: 0
-    font-size: 100%
-    font: inherit
-    vertical-align: baseline
-    box-sizing: border-box
-    color: white
-    transition: .3s
-    font-family: 'Montserrat'
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    color: white;
+    transition: .3s;
+    font-family: 'Montserrat';
 }
 img, svg{
-    transition: .3s
+    transition: .3s;
 }
 a:hover, button:hover{
-    cursor: pointer
-    opacity: .6
+    cursor: pointer;
+    opacity: .6;
 }
 
 .dnone{
-    display: none
+    display: none;
 }
 a{
-    text-decoration: none
+    text-decoration: none;
 }
